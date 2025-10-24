@@ -345,12 +345,6 @@ By default, Got will retry on failure. To disable this option, set [`options.ret
 
 [InstallSizeOfTheDependencies]: https://packagephobia.com/result?p=@sindresorhus/is@7.0.0,@szmarczak/http-timer@5.0.1,cacheable-lookup@7.0.0,cacheable-request@12.0.1,decompress-response@6.0.0,form-data-encoder@4.0.2,http2-wrapper@2.2.1,lowercase-keys@3.0.0,p-cancelable@4.0.1,responselike@3.0.0,type-fest@4.19.0
 
-## Maintainers
-
-[![Sindre Sorhus](https://github.com/sindresorhus.png?size=100)](https://sindresorhus.com) | [![Szymon Marczak](https://github.com/szmarczak.png?size=100)](https://github.com/szmarczak)
----|---
-[Sindre Sorhus](https://sindresorhus.com) | [Szymon Marczak](https://github.com/szmarczak)
-
 <a name="widely-used"></a>
 ## These amazing companies are using Got
 
